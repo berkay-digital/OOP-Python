@@ -5,6 +5,7 @@ This repository contains materials and code from a series of Python classes focu
 - [Class 1 (C1)](C1/)
 - [Class 2 (C2)](C2/)
 - [Class 3 (C3)](C3/)
+- [Class 4 (C4)](C4/)
 
 ## Description
 
