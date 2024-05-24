@@ -13,6 +13,7 @@ This repository contains materials and code from a series of Python classes focu
 - [Class 9 (C9)](C9/)
 - [Class 10 (C10)](C10/)
 - [Class 11 (C11)](C11/)
+- [Class 12 (C12)](C12/)
 
 ## Description
 
